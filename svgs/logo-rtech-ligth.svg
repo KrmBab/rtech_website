@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="132.43501"
+   height="129.85127"
+   viewBox="0 0 132.43502 129.85127"
+   sodipodi:docname="rtech-logo.png"
+   inkscape:export-filename="rtech-logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.7801575"
+     inkscape:cx="-15.078737"
+     inkscape:cy="55.420971"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     transform="translate(-1.7610559,-2.1925526)">
+    <path
+       style="fill:#ffffff"
+       d="M 47.910345,2.4411501 44.291042,21.359711 c 0,0 47.742916,3.214164 50.059525,16.475112 C 96.667176,51.09577 87.807941,51.965792 76.233843,59.380719 64.659745,66.795645 11.546908,99.621452 11.546908,99.621452 L 1.7610558,130.6672 58.191164,98.383593 75.630639,132.04383 104.47836,131.9207 80.858308,85.653947 134.19606,47.90926 c 0,0 -25.92953,-49.6366867 -86.285715,-45.4681099 z"
+       id="path1" />
+    <circle
+       style="fill:#ffffff"
+       id="path2"
+       cy="45.538471"
+       cx="47.585636"
+       r="6.9575925" />
+    <path
+       style="fill:#ffffff"
+       id="path3"
+       sodipodi:type="arc"
+       sodipodi:cx="47.390991"
+       sodipodi:cy="45.767864"
+       sodipodi:rx="8.694891"
+       sodipodi:ry="8.694891"
+       sodipodi:start="2.4211547"
+       sodipodi:end="2.4110442"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 40.856634,51.504004 A 8.694891,8.694891 0 0 1 41.638353,39.248027 8.694891,8.694891 0 0 1 53.896268,39.998765 8.694891,8.694891 0 0 1 53.176515,52.258538 8.694891,8.694891 0 0 1 40.914962,51.569776" />
+  </g>
+</svg>
