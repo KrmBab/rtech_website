@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Set up email parameters
-    $to = 'manager@steradianautomation.com';
+    $to = 'martin.spel@rtech.fr';
     $subject = 'Message from ' . $name;
     $message = "Phone number: " . $phone_number . "\n\n" . $message_text;
     $headers = "From: " . $email . "\r\n" .

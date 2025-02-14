@@ -1,0 +1,1 @@
+const e={service_title:"Recherche & développement",srevice_description:"This page is ender construction",service_image:"/images/services/r&d/research-and-devlopement.webp",title:"",infos:"",projects:[],descriptions:[]};export{e as default};

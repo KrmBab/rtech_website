@@ -2,5 +2,5 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://www.steradianautomation.com/sitemap.xml
+Sitemap: https://www.r.tech.com/sitemap.xml
 # END nuxt-robots
